@@ -1,0 +1,9 @@
+E:\ProjectOutput\PasswordSuggestion.exe
+E:\ProjectOutput\PasswordSuggestion.dll
+E:\ProjectOutput\PasswordSuggestion.deps.json
+E:\ProjectOutput\PasswordSuggestion.runtimeconfig.json
+E:\ProjectOutput\PasswordSuggestion.pdb
+E:\ProjectOutput\en\PasswordSuggestion.resources.dll
+E:\ProjectOutput\MetroFramework.Design.dll
+E:\ProjectOutput\MetroFramework.Fonts.dll
+E:\ProjectOutput\MetroFramework.dll
